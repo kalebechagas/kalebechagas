@@ -14,8 +14,8 @@
 
   <h3>Skills 🚀</h3>
       <a href="https://github.com/kalebechagas">
-      <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kalebechagas&count_private=true&include_all_commits=true&show_icons=true&theme=dark&border=false&show_owner=true"/>
-      <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalebechagas&theme=dark&hide_border=false&&layout=compact"/>
+      <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kalebechagas&count_private=true&include_all_commits=true&show_icons=true&theme=dark&border=false&show_owner=true"/>
+      <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kalebechagas&theme=dark&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
